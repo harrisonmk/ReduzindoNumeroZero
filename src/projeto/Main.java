@@ -16,7 +16,7 @@ public class Main {
 
         while (numero != 0) {
 
-            numero = (numero % 2 == 0) ? numero = numero / 2 : numero - 1;
+            numero = (numero % 2 == 0) ? numero / 2 : numero - 1;
 
             contador++;
 
